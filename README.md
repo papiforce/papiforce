@@ -76,6 +76,6 @@
 
 <br/><br/>
 
-<p style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=papiforce&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="papiforce" />
-</p>
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=papiforce&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="papiforce" /> |
+  <img src="https://github-readme-stats.vercel.app/api?username=papiforce&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> |
+| ------------- | ------------- |
