@@ -12,11 +12,11 @@
 
 <br/>
 
-<h3 align="center">Languages and Tools</h3>
+<h3>Languages and Tools</h3>
 
 <br/>
 
-<p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 32px 24px;">
+<p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -76,6 +76,20 @@
 
 <br/><br/>
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=papiforce&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="papiforce" /> |
-  <img src="https://github-readme-stats.vercel.app/api?username=papiforce&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> |
-| ------------- | ------------- |
+<h3>Statistics</h3>
+
+<br/>
+
+<table>
+	<tr>
+    	<td>
+			<img 
+        		src="https://github-readme-stats.vercel.app/api/top-langs?username=papiforce&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" 
+            	alt="papiforce" 
+        	/>
+        </td>
+        <td>
+  			<img src="https://github-readme-stats.vercel.app/api?username=papiforce&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="papiforce" />
+            </td>
+  </tr>
+  </table>
