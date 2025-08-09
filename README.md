@@ -8,8 +8,6 @@
 
 <p align="center">💬 Ask me about <b>React, NextJS and NodeJS</b></p>
 
-<p align="center">📫 How to reach me <a href="mailto:kasomo.emm@gmail.com"><u><b>kasomo.emm@gmail.com</b></u></a></p>
-
 <br/>
 
 <h3>Languages and Tools</h3>
